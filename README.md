@@ -1,4 +1,4 @@
-# 一、 使用方法
+#  使用方法
 ## 1. 导入内核到 Linux 端
 **sing-box 内核下载链接后缀和 CPU 架构对应关系如下表：**
 |CPU 架构|AMD64|AMD64v3|ARMv5|ARMv6|ARMv7|ARMv8&ARM64&AArch64|mips-softfloat|mipsle-hardfloat|mipsle-softfloat|
